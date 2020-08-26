@@ -416,5 +416,31 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.8 (ceph) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/ceph/build/venv/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1886046295" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/python3.8" />
+        <root url="file:///usr/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/ceph/build/venv/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/CLion2020.1/python_stubs/1886046295" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
